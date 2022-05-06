@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500,600,700|Exo:100,200,300,400,500,600,700');
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@300&family=Space+Grotesk&display=swap');
 
 /*--------------------------------------------Colors*/
 
@@ -52,7 +52,7 @@ h4 {
 }
 
 .general-sub {
-    font-family: "Exo", sans-serif;
+    font-family: "Space Grotesk", sans-serif;
     font-weight: 300;
     color: #fafafa;
 }
@@ -72,10 +72,16 @@ h4 {
 }
 
 .section-heading {
-    font-family: "Exo", sans-serif;
+    font-family: "Space Grotesk", sans-serif;
     font-weight: 300;
     margin-top: 25px;
     margin-bottom: 40px;
+}
+
+p {
+    margin-top: 0;
+    margin-bottom: 1rem;
+    font-family: 'Rubik';
 }
 
 /*--------------------------------------------Heading*/
@@ -100,7 +106,7 @@ header {
 }
 
 .name {
-    font-family: "Exo", sans-serif;
+    font-family: "Space Grotesk", sans-serif;
     font-weight: 100;
     font-size: 46px;
     margin-top: 50px;
@@ -162,6 +168,7 @@ header {
     font-size: 14px;
     font-weight: 300;
     letter-spacing: 2px;
+    font-family: "Space Grotesk", sans-serif;
 }
 
 /*--------------------------------------------Hover.css*/
@@ -232,6 +239,7 @@ footer {
 
 .three-reasons-heading {
     margin-bottom: 15px;
+    font-family: "Space Grotesk", sans-serif;
 }
 
 .codeinstitute {
@@ -260,6 +268,7 @@ footer {
 .personal-info-item .key p,
 .personal-info-item .value p {
     margin: 0;
+    font-family: "Space Grotesk", sans-serif;
 }
 
 .personal-info-item .key {
@@ -302,7 +311,7 @@ footer {
 /*-------------------------------------------- work history*/
 
 .history-heading {
-    font-family: "Exo", sans-serif;
+    font-family: "Space Grotesk", sans-serif;
     font-weight: 300;
     margin-top: 25px;
     margin-bottom: 40px;
@@ -327,7 +336,7 @@ footer {
     left: 2.5em;
     top: 3em;
     display: block;
-    font-family: "Exo", sans-serif;
+    font-family: "Space Grotesk", sans-serif;
     font-weight: 500;
     font-size: 0.8em;
     padding: 0;
@@ -353,7 +362,7 @@ footer {
 /*--------------------------------------------contact form */
 
 .contact-heading {
-    font-family: "Exo", sans-serif;
+    font-family: "Space Grotesk", sans-serif;
     font-weight: 300;
     margin-top: 25px;
     margin-bottom: 20px;
